@@ -1,10 +1,9 @@
 ### Hi there 👋, for About 🤔
-``` text
-I’m Junior Web Developer specializing in back-end development.:grin:	
-CTF player at cyber talents and tryhackme.:cowboy_hat_face:
-Well-versed in numerous programming languages including C#, PHP, JavaScript, MySQL.:sunglasses:
-Like game develop and design some games in global game jams :monocle_face:
-```
+
+ I’m Junior Web Developer specializing in back-end development. :grin:,and CTF player at cyber talents and tryhackme. :cowboy_hat_face:<br/>
+ Well-versed in numerous programming languages including C#, PHP, JavaScript, MySQL. :sunglasses:<br/>
+ Like game develop and design some games in global game jams  :monocle_face:<br/>
+
 
 📫 How to reach me:
 - [LinkedIn profile](https://www.linkedin.com/in/0x13v/).
