@@ -15,9 +15,9 @@ I'm Mohammed Ashraf Taha, a Full Stack Web Application Developer and Penetration
 - [cybertalents profile](https://cybertalents.com/members/0x13v/profile).
 - [tryhackme profile](https://tryhackme.com/p/M0x1101).
 
-🧑‍🎓 Education: Bachelor of Computer Science from Obour High Institute, with a focus on programming languages and software development, testing, and design.
+🧑‍🎓 Education: Bachelor of Computer Science
 
-🏆 Achievements: First Place in the Arab and African Collegiate Programming Championship Competition and ranked 16th in the Egypt National Cybersecurity CTF 2021 under the team name "Bounty_Hunters".
+🏆 Achievements: ranked 16th in the Egypt National Cybersecurity CTF 2021 under the team name "Bounty_Hunters".
 
 🚀 Skills: PHP, Laravel, HTML, CSS, JavaScript, MySQL/MongoDB, Git, web security vulnerability assessment, penetration testing, project management, decision-making, complex problem-solving, team leadership.
 
