@@ -5,7 +5,7 @@ my name is Mohammed Ashraf, a Full Stack Web Application Developer and Penetrati
 
 🌱 **I'm currently learning**: Advanced web security techniques and automation tools for penetration testing.
 
-💬 **Ask me about**: Web development, cybersecurity, problem-solving, and team leadership.
+💬 **Ask me about**: Web development, cybersecurity, problem-solving.
 
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20px" height="20px"/> **I'm looking to collaborate on**: Open source web development and cybersecurity projects.
 
