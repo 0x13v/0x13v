@@ -19,7 +19,7 @@ my name is Mohammed Ashraf, a Full Stack Web Application Developer and Penetrati
 
 🏆 **Achievements**: ranked 16th in the Egypt National Cybersecurity CTF 2021 under the team name "Bounty_Hunters".
 
-🚀 **Skills**: PHP, Laravel, HTML, CSS, JavaScript, MySQL/MongoDB, Git, web security vulnerability assessment, penetration testing, project management, decision-making, complex problem-solving, team leadership.
+🚀 **Skills**: PHP, Laravel, HTML, CSS, JavaScript, MySQL/MongoDB, Git, web security vulnerability assessment, penetration testing, project management, decision-making, complex problem-solving.
 
 
 
