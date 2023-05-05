@@ -1,7 +1,7 @@
 Hi there! 👋 <br/>
 my name is Mohammed Ashraf, a Full Stack Web Application Developer and Penetration Tester. I'm passionate about web development, cybersecurity, and problem-solving. I enjoy creating elegant and efficient solutions to complex problems.
 
-🔭 **I'm currently working on**: Full-stack web development projects using PHP, Laravel, HTML, CSS, JavaScript, and MySQL/MongoDB.
+🔭 **I'm currently working on**: Full-stack web development projects using PHP, HTML, CSS, JavaScript, Laravel, vue.js and MySQL/MongoDB.
 
 🌱 **I'm currently learning**: Advanced web security techniques and automation tools for penetration testing.
 
