@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0x13v.0x13v&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0x13v.0x13v&"  /> <br/>
+  <a href="https://wakatime.com/@018ddf48-ade3-45a2-9f11-ca97868b96ac"><img src="https://wakatime.com/badge/user/018ddf48-ade3-45a2-9f11-ca97868b96ac.svg" alt="Total time coded since Feb 25 2024" /></a>
 </div>
 
 ###
