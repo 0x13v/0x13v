@@ -44,11 +44,11 @@
 ###
 
 <div align="left"> 
-my name is Mohammed Ashraf, a Full Stack Web Application Developer and Penetration Tester. I'm passionate about web development, cybersecurity, and problem-solving. I enjoy creating elegant and efficient solutions to complex problems.
+my name is Mohammed Ashraf, a Backend Web Application Developer and Penetration Tester. I'm passionate about web development, cybersecurity, and problem-solving. I enjoy creating elegant and efficient solutions to complex problems.
 
 ###
 
-🔭 **I'm currently working on**: Full-stack web development projects using PHP, HTML, CSS, JavaScript, Laravel, vue.js and MySQL/MongoDB.
+🔭 **I'm currently working on**: Backend web development projects using Laravel and Magento 2.
 
 🌱 **I'm currently learning**: Advanced web security techniques and automation tools for penetration testing.
 
@@ -141,3 +141,15 @@ my name is Mohammed Ashraf, a Full Stack Web Application Developer and Penetrati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />  
   </p>
+
+<h3 align="left">Certifications:</h3>
+
+- Jr. Penetration Tester – TryHackMe (Nov 2024)
+- Penetration Testing Scholarship – Trend Micro (2021)
+- Web Fundamentals Learning Path – TryHackMe (2021)
+
+### 
+
+<h3 align="left">Honors & Awards:</h3>
+
+- Ranked 16th in Egypt National Cybersecurity CTF 2021 (Cyber Talents)
